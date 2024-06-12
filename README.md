@@ -56,7 +56,7 @@ Este programa crea una interfaz gráfica sencilla utilizando los diversos compon
 
 
 
-## #CONCLUSIÓN
+### CONCLUSIÓN
 
 
 
