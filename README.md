@@ -1,15 +1,30 @@
-#Interfaz “allControls.fxml
+**INTERFAZ “ALLCONTROLS.FXML**
 
 **INTRODUCCIÓN**
+
+
 La interfaz “allControls.fxml” es una aplicación de Java FX que sirve como herramienta de aprendizaje para familiarizarse con los componentes de (GUI).
 
+
+
 **DESARROLLO**
+
+
 Este programa crea una interfaz gráfica sencilla utilizando los diversos componentes interactivos que nos ofrece esta aplicación. Los elementos que componen la interfaz son:
+
+
 
 **COPONENTES BÁSICOS**:
 
 - Etiquetas (Labels): Estas muestran un texto informativo en la pantalla.
 - Botones (Buttons): Con estos podemos iniciar una acción haciendo clic sobre ellos.
+
+
+
+![Captura de pantalla (296)](https://github.com/Dayana-Sabando/InterallControls.fxml/assets/168872451/9bc376a3-31d4-4ccb-9e67-fc044cb1fa8f)
+
+
+
 
 **ELEMENTOS CON OPCIONES**:
 - **Casillas de verificación (CheckBoxes)**: Le permite al usuario seleccionar o no seleccionar una opción.
@@ -24,6 +39,13 @@ Este programa crea una interfaz gráfica sencilla utilizando los diversos compon
 -	**Áreas de texto (TextAreas)**: Permiten escribir una variedad de líneas de texto.
 -	**Indicadores de progreso (ProgressIndicators)**: Muestran el progreso de una tarea mediante un círculo giratorio.
 -	**Barras de progreso (ProgressBars)**: Muestran el progreso de una tarea llenando una barra horizontal.
+
+
+
+![Captura de pantalla 2024-06-11 221136](https://github.com/Dayana-Sabando/InterallControls.fxml/assets/168872451/1449a84f-6d1d-4fec-9a12-12ef30ff1f3f)
+
+
+
 
 
 **OTROS COMPONENTES**:
