@@ -1,9 +1,11 @@
 # INTERFAZ “ALLCONTROLS.FXML
 
+
 ### INTRODUCCIÓN
 
 
 La interfaz “allControls.fxml” es una aplicación de Java FX que sirve como herramienta de aprendizaje para familiarizarse con los componentes de (GUI).
+
 
 
 
@@ -14,6 +16,7 @@ Este programa crea una interfaz gráfica sencilla utilizando los diversos compon
 
 
 
+
 ### COMPONENTES BÁSICOS
 
 - Etiquetas (Labels): Estas muestran un texto informativo en la pantalla.
@@ -21,7 +24,9 @@ Este programa crea una interfaz gráfica sencilla utilizando los diversos compon
 
 
 
+
 ![Captura de pantalla (296)](https://github.com/Dayana-Sabando/InterallControls.fxml/assets/168872451/9bc376a3-31d4-4ccb-9e67-fc044cb1fa8f)
+
 
 
 
